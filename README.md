@@ -1,2 +1,3 @@
 # rss-edu
-learn to use RSS
+
+learn to use RSS on flask
