@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <channel>
+    <title>FooBar publishing</title>
+    <link>http://dwyer.co.za</link>
+    <description>A mock RSS feed</description> 
+    <language>en-gb</language>  
+    <item> 
+      <title>Flask by Example sells out</title>
+      <description>Gareth Dwyer's new book, 
+      Flask by Example sells out in minutes</description>
+      <link>http://dwyer.co.za/book/news/flask-by-example</link>
+      <guid isPermalink="false">http://dwyer.co.za/book/news/ 
+      flask-by-example</guid>
+      <pubDate>Sat, 07 Mar 2015 09:09:19 GMT</pubDate>
+    </item>
+  </channel>
+ </rss>
